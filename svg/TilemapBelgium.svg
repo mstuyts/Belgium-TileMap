@@ -101,8 +101,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.63445377"
-     inkscape:cx="309.45"
-     inkscape:cy="-29.270539"
+     inkscape:cx="44.655293"
+     inkscape:cy="-30.846698"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -115,153 +115,170 @@
      inkscape:groupmode="layer"
      inkscape:label="TilemapBelgium"
      transform="matrix(1.25,0,0,-1.25,-62.55,983.375)"><g
-       id="g12"><g
-         id="g14"
-         clip-path="url(#clipPath16)"><path
-           d="m 51,440.69 469.54,0 0,346.49 -469.54,0 0,-346.49 z"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           id="path20"
-           inkscape:connector-curvature="0" /></g></g><g
-       id="g22"><g
+       id="g22"
+       transform="translate(25.218544,-16.392053)"><g
          id="g24"
          clip-path="url(#clipPath26)"><text
-           transform="matrix(1,0,0,-1,275.33,733.78)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text30"><tspan
-             x="0 9.7156801 18.237961 22.91328 34.187401 41.993641 47.497318 56.0196 63.82584"
-             y="0"
-             sodipodi:role="line"
-             id="tspan32">Antwerpen</tspan></text>
+   transform="matrix(1,0,0,-1,275.33,733.78)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text30"><tspan
+     x="0 9.7156801 18.237961 22.91328 34.187401 41.993641 47.497318 56.0196 63.82584"
+     y="0"
+     sodipodi:role="line"
+     id="tspan32">Antwerpen</tspan></text>
+
 </g></g><g
-       id="g34"><g
+       id="g34"
+       transform="translate(25.218544,-16.392053)"><g
          id="g36"
          clip-path="url(#clipPath38)"><text
-           transform="matrix(1,0,0,-1,79.44,671.26)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text42"><tspan
-             x="0 13.1976 21.003839 28.81008 33.485401"
-             y="0"
-             sodipodi:role="line"
-             id="tspan44">West-</tspan></text>
+   transform="matrix(1,0,0,-1,79.44,671.26)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text42"><tspan
+     x="0 13.1976 21.003839 28.81008 33.485401"
+     y="0"
+     sodipodi:role="line"
+     id="tspan44">West-</tspan></text>
+
 <text
-           transform="matrix(1,0,0,-1,60.72,653.71)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text46"><tspan
-             x="0 9.3646803 13.30992 21.116159 28.9224 37.430641 45.952919 53.759159 59.26284 67.069077"
-             y="0"
-             sodipodi:role="line"
-             id="tspan48">Vlaanderen</tspan></text>
+   transform="matrix(1,0,0,-1,60.72,653.71)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text46"><tspan
+     x="0 9.3646803 13.30992 21.116159 28.9224 37.430641 45.952919 53.759159 59.26284 67.069077"
+     y="0"
+     sodipodi:role="line"
+     id="tspan48">Vlaanderen</tspan></text>
+
 </g></g><g
-       id="g50"><g
+       id="g50"
+       transform="translate(25.218544,-16.392053)"><g
          id="g52"
          clip-path="url(#clipPath54)"><text
-           transform="matrix(1,0,0,-1,186.74,671.26)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text58"><tspan
-             x="0 10.92312 19.4454 27.25164 31.92696"
-             y="0"
-             sodipodi:role="line"
-             id="tspan60">Oost-</tspan></text>
+   transform="matrix(1,0,0,-1,186.74,671.26)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text58"><tspan
+     x="0 10.92312 19.4454 27.25164 31.92696"
+     y="0"
+     sodipodi:role="line"
+     id="tspan60">Oost-</tspan></text>
+
 <text
-           transform="matrix(1,0,0,-1,167.18,653.71)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text62"><tspan
-             x="0 9.3646803 13.30992 21.116159 28.9224 37.430641 45.952919 53.759159 59.26284 67.069077"
-             y="0"
-             sodipodi:role="line"
-             id="tspan64">Vlaanderen</tspan></text>
+   transform="matrix(1,0,0,-1,167.18,653.71)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text62"><tspan
+     x="0 9.3646803 13.30992 21.116159 28.9224 37.430641 45.952919 53.759159 59.26284 67.069077"
+     y="0"
+     sodipodi:role="line"
+     id="tspan64">Vlaanderen</tspan></text>
+
 </g></g><g
-       id="g66"><g
+       id="g66"
+       transform="translate(25.218544,-16.392053)"><g
          id="g68"
          clip-path="url(#clipPath70)"><text
-           transform="matrix(1,0,0,-1,284.57,671.26)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text74"><tspan
-             x="0 9.3646803 13.30992 21.116159 28.9224 41.403961 49.210201"
-             y="0"
-             sodipodi:role="line"
-             id="tspan76">Vlaams-</tspan></text>
+   transform="matrix(1,0,0,-1,284.57,671.26)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text74"><tspan
+     x="0 9.3646803 13.30992 21.116159 28.9224 41.403961 49.210201"
+     y="0"
+     sodipodi:role="line"
+     id="tspan76">Vlaams-</tspan></text>
+
 <text
-           transform="matrix(1,0,0,-1,285.05,653.71)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text78"><tspan
-             x="0 10.08072 15.5844 23.39064 31.89888 39.70512 48.21336"
-             y="0"
-             sodipodi:role="line"
-             id="tspan80">Brabant</tspan></text>
+   transform="matrix(1,0,0,-1,285.05,653.71)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text78"><tspan
+     x="0 10.08072 15.5844 23.39064 31.89888 39.70512 48.21336"
+     y="0"
+     sodipodi:role="line"
+     id="tspan80">Brabant</tspan></text>
+
 </g></g><g
-       id="g82"><g
+       id="g82"
+       transform="translate(25.218544,-16.392053)"><g
          id="g84"
          clip-path="url(#clipPath86)"><text
-           transform="matrix(1,0,0,-1,389.95,662.47)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text90"><tspan
-             x="0 8.5222797 12.46752 24.94908 33.471359 41.993641 47.497318"
-             y="0"
-             sodipodi:role="line"
-             id="tspan92">Limburg</tspan></text>
+   transform="matrix(1,0,0,-1,389.95,662.47)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text90"><tspan
+     x="0 8.5222797 12.46752 24.94908 33.471359 41.993641 47.497318"
+     y="0"
+     sodipodi:role="line"
+     id="tspan92">Limburg</tspan></text>
+
 </g></g><g
-       id="g94"><g
+       id="g94"
+       transform="translate(25.218544,-16.392053)"><g
          id="g96"
          clip-path="url(#clipPath98)"><text
-           transform="matrix(1,0,0,-1,179.3,591.19)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text102"><tspan
-             x="0 10.08072 17.886959 21.832199 30.354481 38.160721 46.668961"
-             y="0"
-             sodipodi:role="line"
-             id="tspan104">Hainaut</tspan></text>
+   transform="matrix(1,0,0,-1,179.3,591.19)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text102"><tspan
+     x="0 10.08072 17.886959 21.832199 30.354481 38.160721 46.668961"
+     y="0"
+     sodipodi:role="line"
+     id="tspan104">Hainaut</tspan></text>
+
 </g></g><g
-       id="g106"><g
+       id="g106"
+       transform="translate(25.218544,-16.392053)"><g
          id="g108"
          clip-path="url(#clipPath110)"><text
-           transform="matrix(1,0,0,-1,285.05,599.95)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text114"><tspan
-             x="0 10.08072 15.5844 23.39064 31.89888 39.70512 48.21336 52.88868"
-             y="0"
-             sodipodi:role="line"
-             id="tspan116">Brabant </tspan></text>
+   transform="matrix(1,0,0,-1,285.05,599.95)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text114"><tspan
+     x="0 10.08072 15.5844 23.39064 31.89888 39.70512 48.21336 52.88868"
+     y="0"
+     sodipodi:role="line"
+     id="tspan116">Brabant </tspan></text>
+
 <text
-           transform="matrix(1,0,0,-1,289.49,582.43)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text118"><tspan
-             x="0 11.26008 19.06632 23.01156 26.9568 35.47908"
-             y="0"
-             sodipodi:role="line"
-             id="tspan120">wallon</tspan></text>
+   transform="matrix(1,0,0,-1,289.49,582.43)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text118"><tspan
+     x="0 11.26008 19.06632 23.01156 26.9568 35.47908"
+     y="0"
+     sodipodi:role="line"
+     id="tspan120">wallon</tspan></text>
+
 </g></g><g
-       id="g122"><g
+       id="g122"
+       transform="translate(25.218544,-16.392053)"><g
          id="g124"
          clip-path="url(#clipPath126)"><text
-           transform="matrix(1,0,0,-1,399.67,591.19)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text130"><tspan
-             x="0 8.5222797 12.46752 20.27376 28.782"
-             y="0"
-             sodipodi:role="line"
-             id="tspan132">Liège</tspan></text>
+   transform="matrix(1,0,0,-1,399.67,591.19)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text130"><tspan
+     x="0 8.5222797 12.46752 20.27376 28.782"
+     y="0"
+     sodipodi:role="line"
+     id="tspan132">Liège</tspan></text>
+
 </g></g><g
-       id="g134"><g
+       id="g134"
+       transform="translate(25.218544,-16.392053)"><g
          id="g136"
          clip-path="url(#clipPath138)"><text
-           transform="matrix(1,0,0,-1,289.25,519.91)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text142"><tspan
-             x="0 10.08072 17.886959 30.368521 38.876759"
-             y="0"
-             sodipodi:role="line"
-             id="tspan144">Namur</tspan></text>
+   transform="matrix(1,0,0,-1,289.25,519.91)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text142"><tspan
+     x="0 10.08072 17.886959 30.368521 38.876759"
+     y="0"
+     sodipodi:role="line"
+     id="tspan144">Namur</tspan></text>
+
 <text
-           transform="matrix(1,0,0,-1,375.55,519.91)"
-           style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text146"><tspan
-             x="0 8.5222797 17.044559 24.8508 32.65704 45.138599 53.646839 62.169121 70.691399 76.195084"
-             y="0"
-             sodipodi:role="line"
-             id="tspan148">Luxembourg</tspan></text>
+   transform="matrix(1,0,0,-1,375.55,519.91)"
+   style="font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text146"><tspan
+     x="0 8.5222797 17.044559 24.8508 32.65704 45.138599 53.646839 62.169121 70.691399 76.195084"
+     y="0"
+     sodipodi:role="line"
+     id="tspan148">Luxembourg</tspan></text>
+
 </g></g><g
-       id="g150"><g
+       id="g150"
+       transform="translate(25.218544,-16.392053)"><g
          id="g152"
          clip-path="url(#clipPath154)"><path
            d="m 51.96,696.94 94.944,0 0,1.92 -94.944,0 0,-1.92 z"
