@@ -8,5 +8,6 @@ The following formats are available:
 * a pdf file (A4 format & minimal format)
 * a png files (in 3 sizes)
 * cad files (dwg & dxf format)
+* Excel files (xlsx & xls format)
 
 ![Example png file](https://raw.githubusercontent.com/mstuyts/Belgium-TileMap/master/png/TilemapBelgiumSmall.png "Example png file")
