@@ -7,9 +7,10 @@ The following formats are available:
 * a gml file (EPSG:4326)
 * a svg file
 * a pdf file (A4 format & minimal format)
+* an eps file
 * a png files (in 3 sizes)
 * cad files (dwg & dxf format)
-* Excel files (xlsx & xls format)
+* excel files (xlsx & xls format)
 * odf spreadsheet (LibreOffice)
 * a csv file (without formatting)
 
