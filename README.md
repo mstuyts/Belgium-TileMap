@@ -10,6 +10,7 @@ The following formats are available:
 * a png files (in 3 sizes)
 * cad files (dwg & dxf format)
 * Excel files (xlsx & xls format)
+* odf spreadsheet (LibreOffice)
 * a csv file (without formatting)
 
 ![Example png file](https://raw.githubusercontent.com/mstuyts/Belgium-TileMap/master/png/TilemapBelgiumSmall.png "Example png file")
