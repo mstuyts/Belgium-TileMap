@@ -8,7 +8,8 @@ The following formats are available:
 * a svg file
 * a pdf file (A4 format & minimal format)
 * an eps file
-* a png files (in 3 sizes)
+* png files (in 3 sizes)
+* jpg files (in 3 sizes)
 * cad files (dwg & dxf format)
 * excel files (xlsx & xls format)
 * odf spreadsheet (LibreOffice)
