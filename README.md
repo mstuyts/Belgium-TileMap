@@ -1,5 +1,5 @@
 # Tile Map of Belgium
-This repository contains a Tile Map of Belgian provinces in different formats.
+This repository contains a Tile Maps of Belgian provinces in different formats.
 
 The following formats are available:
 * a shape file (EPSG:31370)
@@ -15,4 +15,5 @@ The following formats are available:
 * odf spreadsheet (LibreOffice)
 * a csv file (without formatting)
 
-![Example png file](https://raw.githubusercontent.com/mstuyts/Belgium-TileMap/master/png/TilemapBelgiumSmall.png "Example png file")
+## Rectangles
+![Example png file](https://raw.githubusercontent.com/mstuyts/Belgium-TileMap/master/rectangles/png/TilemapBelgiumSmall.png "Example png file")
