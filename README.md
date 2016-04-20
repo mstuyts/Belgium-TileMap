@@ -1,5 +1,5 @@
 # Tile Map of Belgium
-This repository contains a Tile Maps of Belgian provinces in different formats.
+This repository contains Tile Maps of Belgian provinces in different formats.
 
 The following formats are available:
 * a shape file (EPSG:31370)
