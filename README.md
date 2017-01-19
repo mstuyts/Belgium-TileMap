@@ -12,7 +12,7 @@ The following formats are available:
 * jpg files (in 3 sizes)
 * cad files (dwg & dxf format)
 * excel files (xlsx & xls format, for the rectangular tilemap)
-* odf spreadsheet (LibreOffice)
+* odf spreadsheet (LibreOffice, for the rectangular tilemap)
 * a csv file (without formatting, for the rectangular tilemap)
 
 ## Rectangles
