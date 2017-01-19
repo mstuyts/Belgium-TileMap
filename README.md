@@ -11,9 +11,9 @@ The following formats are available:
 * png files (in 3 sizes)
 * jpg files (in 3 sizes)
 * cad files (dwg & dxf format)
-* excel files (xlsx & xls format)
+* excel files (xlsx & xls format, for the rectangular tilemap)
 * odf spreadsheet (LibreOffice)
-* a csv file (without formatting)
+* a csv file (without formatting, for the rectangular tilemap)
 
 ## Rectangles
 ![Example png file](https://raw.githubusercontent.com/mstuyts/Belgium-TileMap/master/rectangles/png/TilemapBelgiumSmall.png "Example png file")
