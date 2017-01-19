@@ -16,4 +16,11 @@ The following formats are available:
 * a csv file (without formatting, for the rectangular tilemap)
 
 ## Rectangles
-![Example png file](https://raw.githubusercontent.com/mstuyts/Belgium-TileMap/master/rectangles/png/TilemapBelgiumSmall.png "Example png file")
+![Example rectangle png file](https://raw.githubusercontent.com/mstuyts/Belgium-TileMap/master/rectangles/png/TilemapBelgiumSmall.png "Example png file")
+
+## Hexagons
+### Version 1
+![Example hexagon version 1 png file](https://github.com/mstuyts/Belgium-TileMap/blob/master/hexagons/png/TilemapBelgiumHexagonV1Small.png "Example png file")
+
+### Version 2
+![Example hexagon version 1 png file](https://github.com/mstuyts/Belgium-TileMap/blob/master/hexagons/png/TilemapBelgiumHexagonV2Small.png "Example png file")
